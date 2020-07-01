@@ -39,5 +39,4 @@ new Vue({
 }).$mount('#app')
 
 Vue.use(Vuesax, {
-
 })
